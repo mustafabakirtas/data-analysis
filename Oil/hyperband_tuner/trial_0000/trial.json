@@ -1,0 +1,1 @@
+{"trial_id": "0000", "hyperparameters": {"space": [{"class_name": "Choice", "config": {"name": "units", "default": 8, "conditions": [], "values": [8, 16, 32], "ordered": true}}], "values": {"units": 16, "tuner/epochs": 3, "tuner/initial_epoch": 0, "tuner/bracket": 2, "tuner/round": 0}}, "metrics": {"metrics": {}}, "score": null, "best_step": null, "status": "RUNNING"}
